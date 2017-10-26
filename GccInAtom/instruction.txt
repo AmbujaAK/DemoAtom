@@ -1,1 +1,19 @@
 go to this link -
+https://www.youtube.com/watch?v=c9UibCriuSs
+
+download link -
+TDM - https://sourceforge.net/projects/tdm-gcc/?source=typ_redirect
+
+minGW - http://www.mingw.org/ ( download installer )
+(check if C:\MInGW\bin is in your path environment variable.)
+(install g++)
+
+now in atom packages , download gcc-compiler package.
+compile by fn+F5
+run by fn+F6
+
+common erron - https://github.com/kriscross07/atom-gpp-compiler/issues/64
+
+full detail - https://atom.io/packages/gcc-make-run
+
+its done , congrats !!
