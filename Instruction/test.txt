@@ -9,5 +9,5 @@ FOLLOW THESE STEP-BY-STEP
   url = "REPOSITORY_LINK"
 [branch "master"]
   remote = origin
-6.nOW CLICK on PULL to load README.md file
-7. 
+6.now CLICK on PULL to load README.md file
+7.You can use this video "https://www.youtube.com/watch?v=duQwcAEV4hk"
