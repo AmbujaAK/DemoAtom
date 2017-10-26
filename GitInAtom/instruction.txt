@@ -1,0 +1,13 @@
+FOLLOW THESE STEP-BY-STEP
+
+1. Make a project folder.
+2.Create a Repository from Atom as well as from github.com (say Demo)
+3.".git" folder will appear in Demo Folder.
+4. Go to Demo Folder and click on config file .
+5 . Add the following in that file
+[remote "origin"]
+  url = "REPOSITORY_LINK"
+[branch "master"]
+  remote = origin
+6.now CLICK on PULL to load README.md file
+7.You can use this video "https://www.youtube.com/watch?v=duQwcAEV4hk"
