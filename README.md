@@ -1,5 +1,2 @@
 # DemoAtom
-Just nothing ...
-
-
-Just adding this line ...
+How you can use Git in Atom..
