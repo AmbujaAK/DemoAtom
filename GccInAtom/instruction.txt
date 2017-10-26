@@ -15,5 +15,6 @@ run by fn+F6
 common erron - https://github.com/kriscross07/atom-gpp-compiler/issues/64
 
 full detail - https://atom.io/packages/gcc-make-run
+              https://atom.io/packages/gpp-compiler
 
 its done , congrats !!
